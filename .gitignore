@@ -1,0 +1,16 @@
+question-classification/src/ai_model/itemcls.caffemodel
+question-classification/src/3rdParty/opencv3.4.5/lib/libopencv_cudafilters.so.3.4.5
+question-classification/src/3rdParty/opencv3.4.5/lib/libopencv_cudaarithm.so.3.4
+question-classification/src/3rdParty/opencv3.4.5/lib/libopencv_cudaoptflow.so.3.4.5
+question-classification/src/3rdParty/opencv3.4.5/lib/libopencv_cudawarping.so.3.4
+question-classification/src/3rdParty/opencv3.4.5/lib/libopencv_cudaarithm.so
+question-classification/src/3rdParty/opencv3.4.5/lib/libopencv_cudawarping.so
+question-classification/src/3rdParty/opencv3.4.5/lib/libopencv_cudaarithm.so.3.4.5
+question-classification/src/3rdParty/opencv3.4.5/lib/libopencv_cudafilters.so.3.4
+question-classification/src/3rdParty/opencv3.4.5/lib/libopencv_cudawarping.so.3.4.5
+question-classification/src/3rdParty/opencv3.4.5/lib/libopencv_cudaoptflow.so.3.4
+question-classification/src/3rdParty/opencv3.4.5/lib/libopencv_cudaoptflow.so
+question-classification/src/3rdParty/opencv3.4.5/lib/libopencv_cudafilters.so
+correction_symbols/model/crnn_Rec_swa_462w_blur_8_16_20210524.pt
+correction_symbols/model/swa_fpn_se_462w_syh_blur_all_8_16_new.pth
+correction_symbols/lib/libtorch.so
